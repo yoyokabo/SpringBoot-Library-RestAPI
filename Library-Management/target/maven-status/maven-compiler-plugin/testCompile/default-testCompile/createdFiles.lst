@@ -1,0 +1,8 @@
+com\maids\Library\Management\services\impl\PatronServiceImplTest.class
+com\maids\Library\Management\controllers\BorrowingControllerTest.class
+com\maids\Library\Management\services\impl\BorrowingServiceImplTest.class
+com\maids\Library\Management\utils\TestData.class
+com\maids\Library\Management\controllers\BookControllerTest.class
+com\maids\Library\Management\services\impl\BookServiceImplTest.class
+com\maids\Library\Management\controllers\PatronControllerTest.class
+com\maids\Library\Management\LibraryManagementApplicationTests.class
